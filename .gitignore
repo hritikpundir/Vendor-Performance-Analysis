@@ -1,0 +1,8 @@
+data/
+inventory.db
+__pycache__/
+.ipynb_checkpoints/
+logs/
+tempCodeRunnerFile.py
+Untitled-1.ipynb
+*.pyc
