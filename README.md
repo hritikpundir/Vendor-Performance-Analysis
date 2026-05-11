@@ -21,9 +21,6 @@ This project analyzes vendor performance using SQL, Python, and Power BI.
 3. Data cleaning
 4. Dashboard creation
 
-## Dashboard
-(Add dashboard screenshot here)
-
 ## Key Insights
 - Top vendors by sales
 - Low-performing vendors
