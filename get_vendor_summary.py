@@ -150,6 +150,5 @@ if __name__ == '__main__':
     logging.info(clean_df.head())
 
     logging.info('Ingesting data....')
-    ingest_db(clean_df, 'vendor_sales_summary', conn)
-
+    ingest_db('vendor_sales_summary', clean_df, conn)
     logging.info('Completed')
