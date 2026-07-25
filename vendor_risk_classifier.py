@@ -114,6 +114,8 @@ def run_classifier(conn):
 
     df.to_sql('vendor_risk_predictions', conn, if_exists='replace', index=False)
 
+    df.to_csv('vendor_risk_predictions.csv', index=False)
+
     return df, report, cm, auc, coefficients, threshold
 
 
