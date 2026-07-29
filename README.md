@@ -44,7 +44,7 @@ and freight data at the vendor-brand level.
 ## Dashboard
 
 **Page 1 — Vendor Performance Overview**
-![Vendor Performance Dashboard](image-1.png)
+![Vendor Performance Dashboard](image.png)
 
 - Total Sales: **$441.41M** | Total Purchase: **$307.34M** | Gross Profit: 
   **$134.07M** | Unsold Capital: **$2.71M**
